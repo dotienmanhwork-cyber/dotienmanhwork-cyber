@@ -32,3 +32,5 @@ Nền tảng mua bán khóa học lập trình tích hợp AI
 ## 📬 Liên hệ
 - 🌐 [codemia-alpha.vercel.app](https://codemia-alpha.vercel.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/%C4%91%E1%BB%97-ti%E1%BA%BFn-m%E1%BA%A1nh-91a9992a9/)
+- 📧 dotienmanh.work@gmail.com
+- 📞 0816 390 795
