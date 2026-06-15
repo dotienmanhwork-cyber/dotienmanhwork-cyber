@@ -2,7 +2,7 @@
 
 🎓 Fresh Graduate – Software Engineering @ HUSC (GPA: 3.29/4.0)  
 💻 Fullstack Developer | React.js & Java Spring Boot  
-📍 , Việt Nam  
+📍 Huế, Việt Nam  
 📧 dotienmanh.work@gmail.com  
 
 ---
